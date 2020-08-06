@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Reg-header{
+    width: 100%;
+    height: 0.38rem;
+    line-height: 0.38rem;
+    background: #ff9900;
+    color: #fff;
+    font-size: 0.18rem;
+    text-align: center;
+}
+.Reg-back{
+    float: left;
+    color: #fff;
+    text-decoration: none;
+}
+.Reg-ul{
+    list-style: none;
+    font-size: .15rem;
+    margin-top: 1.5rem;
+}
+.Reg-ul li{
+    margin: 0 auto;
+   width: 2.7rem;
+   line-height: .5rem;
+   border-bottom: .02rem solid #333333;
+}
+.Reg-ul li input{
+    border: none;
+}
+
+.Reg-li{
+    border: none !important;
+    margin-top: .2rem !important;
+}
+
+.Reg-li button{
+    width: 2.6rem;
+    height: .4rem;
+    background: #ff9900;
+    color: #fff;
+    border-radius: .1rem;
+    border: none;
+}
